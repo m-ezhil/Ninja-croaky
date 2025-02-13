@@ -1,3 +1,6 @@
+# Note: My old repository is no longer in use due to technical issues. You can view my work here. Thank you, and happy coding! 🚀
+<br>
+
 <h1 align = 'center'>NINJA CROAKY 🐸</h1> 
 <p style='text-align: justify'><b>Ninja croaky</b> is a puzzle platformer game. This game is made with python, pygame and pytmx frameworks and Tiled map editor. The game concept is simple and straightforward. The player character collect all coins and then reach the achievement flag to complete the level.</p>
 
